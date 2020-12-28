@@ -11,5 +11,11 @@
 
 body {
   font-family: $default-font;
-  background-color: cadetblue;
+
+  @media (min-width: 2200px) {
+    body {
+      margin: 0 auto;
+      max-width: 1900px;
+    }
+  }
 }

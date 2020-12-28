@@ -3,3 +3,20 @@
 @import 'mixin';
 @import 'settings';
 
+.main-image-container-b {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 136px;
+  height: 136px;
+  background-color: #E6E6E6;
+
+  &__image {
+    width: 116px;
+    height: 104px;
+  }
+}
+
+.footer-b {
+  background-color: #E6E6E6;
+}
