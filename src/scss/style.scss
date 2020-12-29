@@ -1,0 +1,49 @@
+@import "~bootstrap/scss/bootstrap";
+@import 'var';
+@import 'mixin';
+@import 'settings';
+
+@include media-breakpoint-up(xl) {
+  .container{
+    max-width: 1272px;
+  }
+}
+
+.logo-img-b {
+  max-width: 196px;
+  max-height: 70px;
+}
+
+.nav-b {
+  min-height: 141px;
+  font-size: rem-calc(22);
+
+  &__navbar-brand {
+    padding: 0 15px;
+    height: 141px;
+    line-height: 141px;
+  }
+}
+
+.main-menu-b {
+  &__item {
+    color: $black !important;
+
+    &:hover {
+      color: $fiolet !important;
+    }
+  }
+}
+
+.change-language-btn-b {
+  &__container {
+    min-width: 137px;
+    min-height: 55px;
+  }
+
+  &__country-flag {
+    max-width: 28px;
+    max-height: 17px;
+  }
+}
+
