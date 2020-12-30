@@ -25,6 +25,18 @@
   outline: none;
 }
 
+html {
+  font-size: 16px;
+
+  @include rwd(tablet) {
+    font-size: 15px;
+  }
+
+  @include rwd(medium) {
+    font-size: 14px;
+  }
+}
+
 body {
   font-family: 'mulibold', sans-serif;
 
