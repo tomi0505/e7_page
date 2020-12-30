@@ -27,7 +27,7 @@
 }
 
 //FUNCTIONS
-@function rem-calc($size) {
+@function fontRem($size) {
   $remSize: $size / 16;
   @return #{$remSize}rem;
 };
