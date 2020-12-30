@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'mulibold';
+  src: url('../fonts/muli-bold-webfont.woff2') format('woff2'),
+  url('../fonts/muli-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'mulilight';
+  src: url('../fonts/muli-light-webfont.woff2') format('woff2'),
+  url('../fonts/muli-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  outline: none;
+}
+
+body {
+  font-family: 'mulibold', sans-serif;
+
+  //MORE THAN FULL HD SCREENS
+  @media (min-width: 2200px) {
+    body {
+      margin: 0 auto;
+      max-width: 1900px;
+    }
+  }
+}
