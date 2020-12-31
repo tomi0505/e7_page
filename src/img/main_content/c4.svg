@@ -1,1 +1,39 @@
-<svg width="83" height="78" id="Inteligentny_obiekt_wektorowy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="226 2175 83 78"><image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAABOCAYAAABc+ipFAAAE8klEQVR4Xu2dW6gdNRSGv2JBH8R6p1ZRQUERRW3V+iBoFUQE709e8I6K9Voq2BctUqTFFkV9UFAQRfFB8AKCqHjDFx9aW7QiWBC1Ymu1VfCuqPyeldN03MPkTDJnT84ksCE7e62VlT+ZWUnWSvYs2qUbgfuBfafI/i2wFHhminxZkM9qoeV8YG0LPsfyN3A08FmEjF6ytgHzVuDhyNZcBTwdKaN37G3AvAN40GvJKuC3hpbtDdzu0VwDPNU7NCIVSgHmPsAPDXocDnw+FDAPAk4CdgvonPOAaz26K4CfG/gOBB73aB4B3gqo6y/gA2BbAO3YSTQyLwSeB3YfuzajFVBHXQS80VP9JtUSmJuBg3uu6Ebg2J7riMD8p+9KAppOhbyCxtqUKpirgWfHqtHOym8CtDhwqY2xnNamVMG8E3hoWjWor2w5cG8BM01vFDDT4PiflOzBfA/4MCEgMaJOBRbm/JjHNL5r3uwMUNeAxMjPDkxtWPwe2GI1bi+P9lfgj0DeELI9Kquy7MCcytRIO0E7PFQ0jXklBKVAmuo888RAvrGRxcwzq2COrRF9qbiAmbAnCpg9BTN0jzKh+mMXtcvebsqROSNdEQ3dtYsLpwsw7wMONSXWec63u80rqZ8+BVYaTV35bYA8oUpfAvdY/nrgtIby78ylLLLLgLON/hfgZstrU1wfpbpy/Xa10UiGZLkkOTf4/rAuwFwPHG81vuwp/A5wupW/C5xh+bryl4ALjGYDcILl5YiTd1OprvwLQH4nJe2COWfej4BmIUr+2r+uXHRuflt1JMr3JaAnnYsFzAlgC5hlZE6MhPKYey9fZasrIGfNyzvTgIpZmzswFwFzTN435vfWV1ng/a1c1vZ9y9eVay9T/nz3Tnvb8rLwbragd92oclnn143+OOAIy/8JvGp5xTvpo1RXrt9kCJUkQ7JckpzFXRugygCe0V87n2fOaPQqjStgJuztAmYBMyECCUWtAZY4I9bFCiihrr0WdZhFUO9nWm4oYE4goanWWcAhgTFNBwCXAlqfu7R06GDKIaiQ8iu9DY02j4Oi9E4eMph72sLB7XC1AVE8HwPnAl8NGUxFMms/sk1SAO4nwHPAYy6mf6hgymhs9d6PWt7qUX/TlpZtAP5fsGuKtXkrRaaZ6RLgBa/Oi4EXY3UY6si8BZAD0CVtwHxfwGyHwCgXRNPxm8aahjoyC5iNQyOcoIAZjlUjZTZgnu8dnZa/251EOweYa83cArxm+bryM70d9e1ehJ125o803rrynzxrfQpwjNEr5FFzw2zAzMEHVMC00ZUiCKGAWcDcGc/Tp/CYMjKHODLv8k4JfwQ8aSBoCees8Cbg0Yby6zw/9dfAA0avSDRZaKW6cll5ReMp6Xi1CxjTIYZlOVnzxkleDwiyecyfsFsVeoBZrQpyO8zzfg25GqOxPV2szX1D06hATwgKmAk7ordgrkh0BYSCqo7yAFMUclfp8oBLWxrr7uIxb6w0kCD7I9J9cltkD2Y5iBr42Iwiy+X2GOme3aneiH7pnDU7MMu1EhFjIsaaR1QbxJq9AZqKNQ9CJIKogBkBXpU1ezDL9WURoyGXqVE2F+uVKx8jRqPPqpFZLiNNCKZE6VjdAmB2gNxyTW4NSG1WFW22/Ad1gXPAgJwkKVeLJxyZ5dL7hGCWv2NICKZElT8KGQHov4QyPdP6HZFKAAAAAElFTkSuQmCC" width="83" height="78" x="226" y="2175"/></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+id="svg" viewBox="0 0 121.000000 97.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,97.000000) scale(0.100000,-0.100000)" stroke="none">
+<path d="M458 948 c-8 -13 -25 -42 -37 -65 -19 -38 -25 -43 -56 -43 -31 0 -35
+3 -35 25 0 24 -3 25 -55 25 -52 0 -55 -1 -55 -25 0 -25 -1 -25 -83 -25 -77 0
+-85 -2 -108 -26 l-24 -26 0 -369 0 -368 23 -23 23 -23 554 0 554 0 23 23 c23
+22 23 23 26 375 2 193 0 362 -3 375 -12 49 -39 62 -125 62 -79 0 -80 0 -80 25
+0 24 -3 25 -55 25 -52 0 -55 -1 -55 -25 0 -23 -3 -25 -49 -25 l-49 0 -34 63
+-35 62 -125 3 c-121 2 -126 2 -140 -20z m267 -100 l30 -58 195 -2 195 -3 0
+-360 0 -360 -540 0 -540 0 0 360 0 360 186 3 186 2 17 38 c40 85 36 83 144 80
+l97 -3 30 -57z"/>
+<path d="M540 840 c0 -30 1 -30 55 -30 54 0 55 0 55 30 0 30 -1 30 -55 30 -54
+0 -55 0 -55 -30z"/>
+<path d="M107 643 c-4 -3 -7 -113 -7 -243 0 -189 3 -240 14 -249 9 -8 110 -11
+352 -9 l339 3 0 250 0 250 -346 3 c-190 1 -348 -1 -352 -5z m653 -248 l0 -205
+-305 0 -305 0 0 205 0 205 305 0 305 0 0 -205z"/>
+<path d="M217 542 c-46 -46 -47 -49 -29 -65 17 -16 21 -14 65 31 46 46 47 49
+29 65 -17 16 -21 14 -65 -31z"/>
+<path d="M289 471 c-98 -94 -103 -100 -87 -117 16 -16 22 -12 117 76 56 51
+101 96 101 99 0 3 -7 14 -14 23 -12 16 -23 9 -117 -81z"/>
+<path d="M930 595 c0 -20 5 -25 25 -25 20 0 25 5 25 25 0 20 -5 25 -25 25 -20
+0 -25 -5 -25 -25z"/>
+<path d="M860 525 c0 -20 5 -25 25 -25 20 0 25 5 25 25 0 20 -5 25 -25 25 -20
+0 -25 -5 -25 -25z"/>
+<path d="M990 525 c0 -20 5 -25 25 -25 20 0 25 5 25 25 0 20 -5 25 -25 25 -20
+0 -25 -5 -25 -25z"/>
+<path d="M930 455 c0 -20 5 -25 25 -25 20 0 25 5 25 25 0 20 -5 25 -25 25 -20
+0 -25 -5 -25 -25z"/>
+<path d="M860 135 c0 -20 5 -25 25 -25 20 0 25 5 25 25 0 20 -5 25 -25 25 -20
+0 -25 -5 -25 -25z"/>
+<path d="M970 135 c0 -20 5 -25 25 -25 20 0 25 5 25 25 0 20 -5 25 -25 25 -20
+0 -25 -5 -25 -25z"/>
+</g>
+</svg>

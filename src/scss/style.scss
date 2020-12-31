@@ -29,6 +29,7 @@
 .main-menu-b {
   &__item {
     color: $black !important;
+    font-weight: 700;
     transition: color .4s;
 
     &:hover {
@@ -98,6 +99,7 @@
 //MAIN
 .section-title-b {
   font-size: fontRem(48);
+  font-weight: 700;
 
   &::after {
     content: '';
@@ -124,50 +126,14 @@
   max-width: 212px;
   background-color: $grey;
 
-  &:nth-child(1) > .offer-images-b__img-item {
-    width: 74px;
-    height: 67px;
+  &__img-item {
+    width: 55%;
   }
 
-  &:nth-child(2) > .offer-images-b__img-item {
-    width: 78px;
-    height: 62px;
-  }
-
-  &:nth-child(4) > .offer-images-b__img-item {
-    width: 83px;
-    height: 78px;
-  }
-
-  &:nth-child(5) > .offer-images-b__img-item {
-    width: 84px;
-    height: 74px;
-  }
-
-  &:nth-child(6) > .offer-images-b__img-item {
-    width: 92px;
-    height: 65px;
-  }
-
-  &:nth-child(7) > .offer-images-b__img-item {
-    width: 81px;
-    height: 86px;
-  }
-
-  &:nth-child(8) > .offer-images-b__img-item {
-    width: 52px;
-    height: 84px;
-  }
-
-  &:nth-child(9) > .offer-images-b__img-item,
-  &:nth-child(3) > .offer-images-b__img-item {
-    width: 90px;
-    height: 56px;
-  }
-
-  &:nth-child(10) > .offer-images-b__img-item {
-    width: 96px;
-    height: 60px;
+  &:nth-child(even) {
+    & > .offer-images-b__img-item {
+      fill: $fiolet-3;
+    }
   }
 }
 
@@ -180,7 +146,7 @@
 
 .contact-form-b {
   display: grid;
-  font-family: 'mulilight';
+  font-weight: 300;
 
   .form-control,
   select {
@@ -224,7 +190,7 @@
     width: 100%;
     max-width: 397px;
     height: 82px;
-    font-family: 'mulibold';
+    font-weight: 700;
     font-size: fontRem(30);
     border-width: 2px !important;
     transition: .4s;
@@ -265,6 +231,7 @@
   max-width: 364px;
   height: 82px;
   font-size: fontRem(30);
+  font-weight: 700;
   border-width: 2px !important;
   border-color: $fiolet-3;
   background-color: $fiolet-3;

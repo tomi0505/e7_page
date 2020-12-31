@@ -1,1 +1,35 @@
-<svg width="84" height="74" id="Inteligentny_obiekt_wektorowy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="55 2337 84 74"><image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABKCAYAAAAlt3MqAAAEu0lEQVR4Xu2dT8hVRRTAf5+llfk3KnBjmUoYCkpEmzSNsCAKQUXQhZpYBLmqSFrUQoQoiRZim4hyoSJikAgaJKKLwCB0obRp4d8SlNqYkohyvu9e3ji+e+fMfXO937vvzO5999xzZ373zMw5c2fON0S7yjRgL/BSwmb9BqwEzmp0DmmE+kjmO2B9DfXdDazW6G0b0KPAy5qGR8qcAuZr7mkz0GvAPg2EApkVwKPZNQOajXlPVwQqY/EfwCQD2unyMolUAfok8Asw13kZPwOvaV7OaO3yY4E5wBhNIxyZb4Hns99VgMo4uR+Y4ej8D3gBOKOpy2gEKt3tGDBL04ASmRigU4CPgQ+BBx2dN4HlwAFtXUYj0M+zxmnbUCSnAfoY8CmwAZjgKfofWBM7sY1GoN8Da3ulqZyUDhWMjeeBVcCvsfXoB6CfANeVDXsfmBkxhl4GZBLyi7hc3wBfAX8pnz0s1g9ApwL/KhvlOvaaLi/jpgwxReUGsAPYoq1DPwJ9D3iogECshYoamfyWAW8Ciwr0XgE+AHaGXqwGqHSJjcATIWWJri/NXKZcnW+hYq2TFc/SWKivRuBuAt4BHu7yDPFHZa3gUtHzQ0Al9DoNPKVoQF0i9xNo3obHs9lfeoPrRsn1q8DbwE/dGhwCKtZyuC5SSr1NAM2r9iywHXi1S123Ap8Bt9xrAlSigi8LHGnpWlXCNyUrlZgPdB7wQMGdvUZKRUb3LrDNWSzJ5Q5m7pV4BcNFgJ7IQitN6z6KdXQ1Sj0ZqbhEJ0VjaJnK2Fk+pnrPZG1f4N30O/AG8HcO9HaEVhmQxfGus/iOfZ1uU2w7Hsn8Uz/w+BNYDFwQC3WB/gOcc57id/lBB5qjEU/ga2/x5qJA9YH+AKxzgIp/9qPz24B2YAibXYBYbV4uGtDYTn+3/CvZStT4/M8GtDegcvddY34/Ap1esvC8B3gxY1QlUqqCNylQ+f7tLgSn8ABCs3ydoWfjQP3GhyIvTYUNqEPJgHp+aKzb1ISFbi5YCZL3Ki5fvpDTl2NoE0CbCj2Lnpt0UjKgid0mA2pANY5GlEzSLi9OtnzbzsvJqKp0Fw65Ta0eQxPwu0eFAU1M1YDeZ6DHgYkFz5QwON/T2Zd+aGKWw+pCFtrqWF7WAcc5VLU7PMpexEADbcIPbXWXbwJoq90mA5o4UpKVn9cdk5FPqb2W0BjaagvtFV63+w1oYqoG1IB2trD3+tVTduc95wCV3RS9loG20CZmefsEEmmyIQttdejZhIW2GqhtdEjs2Ef2ZpV4qMu3eiuOilCkUAioRUotBmrbGSNfbpm4asOtbQnXEe+2JfwCsMSPlELqBn1LuOrQgh2rCZnRyHX1sRo5+PUFMLuLXjv4NXKWK+rgV9n7saOJFY4mlgGVr5qSvMQOz3Yo9XR4VtTY8e4OTDlILCeRKx/v1g3XaaVCkVJdCQjeAhYWNCVpAoK0uMLaQkBThp4DmSLDkriEjbBUwrfQquo0m8UGIs1QE4mwZKLxd/S1JhGWpWqr2idL7rNkgjVAraIyRYoMSad0pG3pLqvAlHtSABU9lpA1ewMuUEsZXNUsnfssqXUCiK4KS7ueGGhd/xhAMoa72YIKq30H0hwzWaPOzM0AAAAASUVORK5CYII=" width="84" height="74" x="55" y="2337"/></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+id="svg" viewBox="0 0 131.000000 116.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,116.000000) scale(0.100000,-0.100000)"
+stroke="none">
+<path d="M812 1148 c-7 -7 -12 -31 -12 -55 l0 -42 -112 -3 -113 -3 -3 -47 -3
+-48 -214 0 c-204 0 -215 -1 -227 -20 -9 -14 -24 -20 -51 -20 -81 0 -77 18 -77
+-330 0 -348 -4 -330 77 -330 27 0 42 -6 51 -20 12 -19 23 -20 227 -20 l214 0
+3 -47 3 -48 113 -3 112 -3 0 -42 c0 -24 5 -48 12 -55 17 -17 309 -17 326 0 22
+22 14 75 -18 112 l-30 34 53 30 c29 17 79 53 110 82 l57 52 0 258 0 258 -57
+52 c-31 29 -81 65 -110 82 l-53 30 30 34 c32 37 40 90 18 112 -17 17 -309 17
+-326 0z m276 -60 c-3 -7 -20 -23 -39 -35 -63 -41 -72 -49 -66 -60 4 -6 44 -29
+90 -51 45 -22 104 -59 130 -82 l47 -42 0 -238 0 -238 -47 -42 c-26 -23 -85
+-60 -130 -82 -46 -22 -86 -45 -90 -51 -6 -11 3 -19 66 -60 63 -41 53 -47 -73
+-47 l-116 0 0 520 0 520 116 0 c88 0 115 -3 112 -12z m-288 -108 c0 -18 -7
+-20 -55 -20 -52 0 -55 -1 -55 -25 0 -24 3 -25 55 -25 l55 0 0 -60 0 -60 -55 0
+c-54 0 -55 0 -55 -30 0 -30 1 -30 55 -30 l55 0 0 -60 0 -60 -55 0 c-54 0 -55
+0 -55 -30 0 -30 1 -30 55 -30 l55 0 0 -60 0 -60 -55 0 c-54 0 -55 0 -55 -30 0
+-30 1 -30 55 -30 l55 0 0 -60 0 -60 -55 0 c-52 0 -55 -1 -55 -25 0 -24 3 -25
+55 -25 49 0 55 -2 55 -20 0 -20 -5 -21 -87 -18 l-88 3 -3 405 c-1 223 0 411 3
+417 3 9 31 13 90 13 78 0 85 -2 85 -20z m-230 -400 l0 -310 -195 0 -195 0 0
+310 0 310 195 0 195 0 0 -310z m-450 0 l0 -270 -30 0 -30 0 0 270 0 270 30 0
+30 0 0 -270z"/>
+<path d="M240 715 c0 -54 0 -55 30 -55 30 0 30 1 30 55 0 54 0 55 -30 55 -30
+0 -30 -1 -30 -55z"/>
+<path d="M240 535 c0 -21 5 -25 30 -25 25 0 30 4 30 25 0 21 -5 25 -30 25 -25
+0 -30 -4 -30 -25z"/>
+<path d="M240 415 c0 -21 5 -25 30 -25 25 0 30 4 30 25 0 21 -5 25 -30 25 -25
+0 -30 -4 -30 -25z"/>
+</g>
+</svg>
