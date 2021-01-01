@@ -15,7 +15,7 @@
 
 
 @font-face {
-    font-family: 'mulibold';
+    font-weight: 700;
     src: url('muli-bold-webfont.woff2') format('woff2'),
          url('muli-bold-webfont.woff') format('woff');
     font-weight: normal;
@@ -74,7 +74,7 @@
 
 
 @font-face {
-    font-family: 'mulilight';
+    font-weight: 300;
     src: url('muli-light-webfont.woff2') format('woff2'),
          url('muli-light-webfont.woff') format('woff');
     font-weight: normal;
